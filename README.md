@@ -57,3 +57,10 @@ cd coin-flip-game
 pip install colorama
 
 FOLLOW THE PROMPTS AND ENJOY!
+
+
+---
+
+✅ Paste this into `README.md` and you’re done.
+
+Let me know when your repo is live — I’ll review it with dev eyes and give you feedback like a hiring manager would.
