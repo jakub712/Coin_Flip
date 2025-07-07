@@ -47,7 +47,7 @@ while True:
 print (f"""
 📝 Text Analysis Complete!
 --------------------------
-Total Games: 5
+Total Games: {total_games}
        
 Total Wins: {win}
 Total Lossess: {loss}
